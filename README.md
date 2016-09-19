@@ -3,5 +3,5 @@ I made this "portfólio" to introduce myself in my e-mails when i have to send t
 i accept all king of sugestions and tips.
 this is my first contribuition.
 
-This is the demon:
+This is the demo:
 https://codepen.io/ramonrlc/pen/VKKqba
