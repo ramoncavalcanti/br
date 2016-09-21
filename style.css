@@ -1,15 +1,3 @@
-@viewport {
-  width: device-width;
-  zoom: 0;
-}
- 
-@media screen and (min-width: 375px) {
-  div { color: red; }
-}
- 
-@media screen and (max-width: 1200px) {
-  div { color: green; }
-}
 
 .profile {
 	text-align: center;
