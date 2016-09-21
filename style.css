@@ -1,6 +1,6 @@
 @viewport {
   width: device-width;
-  zoom: 0;
+  zoom: 1;
 }
  
 @media screen and (min-width: 375px) {
